@@ -1,0 +1,15 @@
+E:\mdt211\homework\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+E:\mdt211\homework\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+E:\mdt211\homework\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+E:\mdt211\homework\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+E:\mdt211\homework\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+E:\mdt211\homework\first\bin\Debug\net6.0\first.exe
+E:\mdt211\homework\first\bin\Debug\net6.0\first.deps.json
+E:\mdt211\homework\first\bin\Debug\net6.0\first.runtimeconfig.json
+E:\mdt211\homework\first\bin\Debug\net6.0\first.dll
+E:\mdt211\homework\first\bin\Debug\net6.0\first.pdb
+E:\mdt211\homework\first\obj\Debug\net6.0\first.dll
+E:\mdt211\homework\first\obj\Debug\net6.0\refint\first.dll
+E:\mdt211\homework\first\obj\Debug\net6.0\first.pdb
+E:\mdt211\homework\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+E:\mdt211\homework\first\obj\Debug\net6.0\ref\first.dll
